@@ -12,13 +12,35 @@ ul{
 a{
     color: white;
     text-decoration: none;
+    font-size: 50px;
 }
 img{
-    width: 2150px;
-    height: 1150px;
+    width: 550px;
+    height: 550px;
     border-radius: 50%;
     border: 10px solid #3700ff;
+    color: rgb(255, 255, 255);
 }
 .center{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: #ffffff;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+}
+h3{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: #ffffff;
     text-align: center;
 }
